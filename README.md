@@ -1,4 +1,4 @@
-# **AOS Assignment2**
+# **POSIX Shell**
 Implement a shell that supports POSIX shell commands.
 
 ## **Working**
